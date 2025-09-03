@@ -15,7 +15,7 @@ An AI-powered LinkedIn post generator that creates engaging, professional conten
 
 Watch a quick demo:
 
-[![Watch the demo on YouTube](https://i.ytimg.com/an_webp/WjqpQQlDJ3M/mqdefault_6s.webp?du=3000&sqp=COzf4cUG&rs=AOn4CLCyzglAcJbSbLf1GBcC3at2JhJGDA)]
+[![Watch the demo on YouTube](https://i.ytimg.com/an_webp/WjqpQQlDJ3M/mqdefault_6s.webp?du=3000&sqp=COzf4cUG&rs=AOn4CLCyzglAcJbSbLf1GBcC3at2JhJGDA)](https://youtu.be/WjqpQQlDJ3M)
 
 ## 🏗️ Architecture
 
