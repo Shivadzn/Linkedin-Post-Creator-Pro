@@ -44,7 +44,7 @@ linkedin_post_generator/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/Shivadzn/Linkedin-Post-Creator-Pro.git)>
    cd linkedin_post_generator
    ```
 
@@ -167,14 +167,6 @@ pytest tests/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-If you encounter any issues:
-
-1. Check the [Issues](https://github.com/your-repo/issues) page
-2. Create a new issue with detailed information
-3. Include error messages and steps to reproduce
-
 ## 🔮 Roadmap
 
 - [ ] Advanced post templates
@@ -184,6 +176,5 @@ If you encounter any issues:
 - [ ] A/B testing capabilities
 - [ ] Team collaboration features
 
----
 
 **Made with ❤️ for LinkedIn professionals** 
