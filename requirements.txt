@@ -1,0 +1,33 @@
+# Core backend
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+
+# AI/LLM integrations
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-groq>=0.0.1
+openai>=1.0.0
+httpx>=0.25.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+json5>=0.9.0
+
+# Config
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Optional (caching, rate limiting)
+cachetools>=5.3.0
+redis>=5.0.0
+ratelimit>=2.2.1
+
+# Dev & test (optional in prod)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Development and testing
+black>=23.0.0
+flake8>=6.0.0 
